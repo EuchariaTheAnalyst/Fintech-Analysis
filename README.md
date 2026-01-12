@@ -141,6 +141,8 @@ AVERAGEX(
 
 ## Dashboard Analysis
 
+### Dashboard Link: [https://lnkd.in/djJbcwa6]
+
 1.  **Overview — Project Delivery Health.**
 
 <img width="700" height="385" alt="Image" src="https://github.com/user-attachments/assets/5d1601cc-c2fe-46a0-ae47-bcc8052c8f36" />
