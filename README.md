@@ -95,7 +95,7 @@ The dashboard serves as a decision-support tool for project managers and stakeho
 
 ---
 
-##  Data Preparation & Modeling
+## Data Preparation & Modeling
 
 ### Data Cleaning
 - Standardized date formats  
