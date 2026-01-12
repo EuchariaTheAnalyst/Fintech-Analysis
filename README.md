@@ -141,7 +141,7 @@ AVERAGEX(
 
 ## Dashboard Analysis
 
-### Dashboard Link: [https://lnkd.in/djJbcwa6]
+### [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZThhZTE3MTgtMmIyMy00MjQ5LWE1MzQtYTM5ODA4ZTEyMWI3IiwidCI6ImMyOTBmYTc0LTJhNGQtNDNkNi04MmE5LTU2NzBkNjhiYTE4NyJ9)
 
 1.  **Overview — Project Delivery Health.**
 
