@@ -4,6 +4,16 @@
 
 ---
 
+## Table Of Content
+- [Project Overview](#Project-Overview)
+- [Business Objective](#Business-Objective)
+- [Business Questions Addressed](#Business-Questions-Addressed)
+- [Data Sources](#Data-Sources)
+- [Data Preparation & Modeling](#Data-Preparation-&-Modeling)
+- [Dashboard Analysis](#Dashboard-Analysis)
+- [Recommendations](#Recommendations)
+- [Conclusion](#Conclusion)
+
 ## Project Overview
 
 This project analyzes project delivery performance within a FinTech organization managing multiple payment product developments across departments, countries, and experience levels.
